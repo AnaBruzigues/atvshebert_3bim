@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.FileReader;
 
-public class Exercicio1 {
+public class Ex1 {
   public static void main(String args[]) throws IOException {
     int a = 0, b, c, v[] = new int[10010];
     Scanner scan = new Scanner(System.in);
